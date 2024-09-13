@@ -1,3 +1,3 @@
 
 
-Sitemap: https://astrowind.vercel.app/sitemap-index.xml
+Sitemap: https://wilson88888888.github.io/mysite/sitemap-index.xml
